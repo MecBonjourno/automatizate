@@ -1,2 +1,4 @@
 Teste 1 com uso de python, GitHub e outras ferramentas top. Material de estudo e aprendizado
-sem fins lucrativos até o momento.
+sem fins lucrativos (até o momento).
+
+Updates nos Issues, no GitHub.
